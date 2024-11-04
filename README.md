@@ -12,4 +12,4 @@ This project is a clone of the Udemy website, built using HTML and CSS. It inclu
 ## Purpose
 This project is designed to replicate the core layout and styling of Udemy, using only HTML and CSS. It serves as a practice project for structuring and styling webpages without using JavaScript or any frameworks.
 
-you can access my udemy clone wwebsite by visiting 
+you can access my udemy clone website by visiting https://gkavin2527.github.io/udemy-clone-project/
